@@ -1,0 +1,29 @@
+.fieldlist {
+    width: 400px;
+}
+.fieldlist .layui-inline{
+    padding: 3px 0px;
+}
+.fieldlist .layui-inline .layui-input-inline{
+    padding-right
+    :6px;
+}
+.fieldlist dd ins {
+    width: 110px ;
+    display: inline-block ;
+    text-decoration: none ;
+    font-weight: bold ;
+}
+
+.fieldlist dd .layui-btn+.layui-btn {
+    margin: unset ;
+}
+.fieldlist .value {width: 200px ;} 
+.fieldlist .key {width: 110px ;}
+.fieldlist .hide{
+    display: none;
+}
+
+tr td .layui-input-block {
+    margin-left: unset !important;
+}
