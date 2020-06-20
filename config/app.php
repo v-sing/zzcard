@@ -174,9 +174,8 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-        App\Providers\TelescopeServiceProvider::class,
         Caffeinated\Modules\ModulesServiceProvider::class,
-        Yajra\Oci8\Oci8ServiceProvider::class,
+        Yajra\Oci8\Oci8ServiceProvider::class
 
     ],
 
